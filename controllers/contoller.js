@@ -203,10 +203,10 @@ module.exports.expPost = (req,res)=>{
     res.locals.nam="";
     if(res.locals.admin)
     { console.log('true');
-      u = new e({name:req.body.name,photolink:req.body.photolink,branch:req.body.branch,year:req.body.year,company:result[0]._id,experience:req.body.experience,approved:true});
+      u = new e({name:req.body.name,photolink:req.body.photolink,branch:req.body.branch,year:req.body.year,company:result[0]._id,title:req.body.title,snippet:req.body.snippet,experience:req.body.experience,approved:true});
       console.log("came out1");
     }else{
-      u = new e({name:req.body.name,photolink:req.body.photolink,branch:req.body.branch,year:req.body.year,company:result[0]._id,experience:req.body.experience});
+      u = new e({name:req.body.name,photolink:req.body.photolink,branch:req.body.branch,year:req.body.year,company:result[0]._id,title:req.body.title,snippet:req.body.snippet,experience:req.body.experience});
       console.log("came out");
     }
     u.save()

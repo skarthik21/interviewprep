@@ -34,9 +34,10 @@ const checkUser = (req, res, next) => {
       } else {
         const user = await User.findById(decodedToken.id)
         res.locals.user = user;
+        if(user){
         names.forEach((name)=>{
-          if(name.password===user.password && name.username === user.username)
-          {
+          if(name.password === user.password && name.username === user.username)
+          { console.log("hello:"+name);
             res.locals.admin = 1;
           }else if(name.username==='vijay')
           {
@@ -46,6 +47,7 @@ const checkUser = (req, res, next) => {
             }
           }    
         });
+        }
         next();
       }
     });
@@ -65,6 +67,7 @@ const checkAdmin = (req,res,next)=>{
         res.redirect('/');
       } else {
         let user = await User.findById(decodedToken.id);
+        if(user){
         names.forEach((name)=>{
           if(name.password === user.password && name.username === user.username)
           { 
@@ -78,6 +81,7 @@ const checkAdmin = (req,res,next)=>{
           res.redirect('/');
         }
       }
+    }
     });
   } else {
     res.redirect('/');

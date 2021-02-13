@@ -19,6 +19,14 @@ const exp = new  mongoose.Schema({
   },
   company:
   {type: mongoose.Schema.Types.ObjectId, ref: 'company'},
+  title:{
+    type:String,
+    require:true,
+  },
+  snippet:{
+    type:String,
+    require:true,
+  },
   experience:{
     type:String,
     require:true,

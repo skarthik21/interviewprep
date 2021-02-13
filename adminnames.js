@@ -4,12 +4,12 @@ var names = [
     password:"$2b$10$HOElipqYkbKSIkFjpumUFersxVFhUXAl0L2QR52HDGFpq40sZ009C",
   },
   {
-    username:'Ram',
-    password:"$2b$10$WsdHxLN5KU7PqnGyDhd7Aed5L7/XWShBXKu9WE0MpYqJfAtwlg7d.",
+    username:'ram',
+    password:"$2b$10$oHeXdWDSn0WzPYicWcNiTuyIbiojPHhiAUBhDvXTP6fZDQfguyTie",
   },
   { 
     username:'pawan',
-    password:"$2b$10$P0X.znsdSyLQpj7MxIG07OR2m2SM2Fbk5ybva/HRCfYEc3CN0YWZW",
+    password:"$2b$10$1AMRJG5h0UD73TpRF7OiKeN8jSUdHEfGIYdWIbMX2vmlm74yU9KFe",
   },
   {
     username:'naren',
