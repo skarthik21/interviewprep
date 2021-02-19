@@ -36,7 +36,7 @@ company is added atomatically and you will see your entry if admin approved it.
 
 # admin panel
 ![Screenshot 2021-02-19 154727](https://user-images.githubusercontent.com/76151512/108491652-2f73a380-72ca-11eb-8aa7-bfdd5b7f1529.png)
-protected from normal users
+protected from normal users only admins can acess it.
 # admin panel acess
 ![Screenshot 2021-02-19 150848](https://user-images.githubusercontent.com/76151512/108487014-c63d6180-72c4-11eb-8306-762ea096fda9.png)
 
