@@ -1,5 +1,5 @@
 # interviewprep
-This website brings all the ingridents required for your interview prep:experiences,coding practice
+This website brings all the ingridents required for your interview preparation:experiences,coding practice and many other things
 
 # HOME page
 ![Screenshot 2021-02-19 145754](https://user-images.githubusercontent.com/76151512/108486078-ac4f4f00-72c3-11eb-8495-610eaa1cc79f.png)
