@@ -40,10 +40,10 @@ protected from normal users only admins can acess it.
 # INSTALLATION
 * Download this github repo.
 * In the folder where you dowloaded run the following command to download the used dependencies.
-  npm install
+  `npm install`
 * Create a collection in MongoDB and paste the url at dbURI in app.js file.
 * Run the app by following command.
-  nodemon app.js
+  `nodemon app.js`
 * On your browser go to http://localhost:8000/
 # Built With
 * Node.js
