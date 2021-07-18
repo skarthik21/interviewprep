@@ -1,5 +1,5 @@
 # interviewprep
-This website brings all the ingridents required for your interview preparation:experiences,coding practice and many other things
+This website is a basic tool for students preparing for internships and placements to organise and streamline the process of searching for resources along wth providing the past interview experiences in just few clicks.
 
 # HOME page
 ![Screenshot 2021-02-19 145754](https://user-images.githubusercontent.com/76151512/108486078-ac4f4f00-72c3-11eb-8495-610eaa1cc79f.png)
@@ -37,5 +37,16 @@ company is added atomatically and you will see your entry if admin approved it.
 # admin panel
 ![Screenshot 2021-02-19 154727](https://user-images.githubusercontent.com/76151512/108491652-2f73a380-72ca-11eb-8aa7-bfdd5b7f1529.png)
 protected from normal users only admins can acess it.
-# admin panel acess
-![Screenshot 2021-02-19 153836](https://user-images.githubusercontent.com/76151512/108615139-fbfa5b80-7426-11eb-9c71-22f2a9ca36d6.png)
+# INSTALLATION
+. Download this github repo.
+. In the folder where you dowloaded run the following command to download the used dependencies.
+  npm install
+. Create a collection in MongoDB and paste the url at dbURI in app.js file.
+. Run the app by following command.
+  nodemon app.js
+. On your browser go to http://localhost:8000/
+# Built With
+. Node.js
+. Express
+. Mongo DB
+. Admin-Bro
