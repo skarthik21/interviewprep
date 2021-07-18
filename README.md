@@ -38,15 +38,15 @@ company is added atomatically and you will see your entry if admin approved it.
 ![Screenshot 2021-02-19 154727](https://user-images.githubusercontent.com/76151512/108491652-2f73a380-72ca-11eb-8aa7-bfdd5b7f1529.png)
 protected from normal users only admins can acess it.
 # INSTALLATION
-. Download this github repo.
-. In the folder where you dowloaded run the following command to download the used dependencies.
+* Download this github repo.
+* In the folder where you dowloaded run the following command to download the used dependencies.
   npm install
-. Create a collection in MongoDB and paste the url at dbURI in app.js file.
-. Run the app by following command.
+* Create a collection in MongoDB and paste the url at dbURI in app.js file.
+* Run the app by following command.
   nodemon app.js
-. On your browser go to http://localhost:8000/
+* On your browser go to http://localhost:8000/
 # Built With
-. Node.js
-. Express
-. Mongo DB
-. Admin-Bro
+* Node.js
+* Express
+* Mongo DB
+* Admin-Bro
