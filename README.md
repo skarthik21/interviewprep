@@ -3,9 +3,9 @@ This website is a basic tool for students preparing for internships and placemen
 
 # HOME page
 ![Screenshot 2021-02-19 145754](https://user-images.githubusercontent.com/76151512/108486078-ac4f4f00-72c3-11eb-8495-610eaa1cc79f.png)
-programming section contains topic wise separeted question for pratice,
+programming section contains topic wise seperated programming questions for practise,
 interview section contains the experiences of the seniors,
-random question picks you a question randomly which helps you when you are in a confused state
+random question picks you a question randomly which helps you when you are in a confused state of what to do.
 
 # collapsable nav bar
 ![Screenshot 2021-02-19 145808](https://user-images.githubusercontent.com/76151512/108486237-e15ba180-72c3-11eb-94ed-a9870510d881.png)
