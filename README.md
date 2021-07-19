@@ -19,7 +19,7 @@ random question picks you a question randomly which helps you when you are in a 
 ![Screenshot 2021-02-19 145834](https://user-images.githubusercontent.com/76151512/108486308-f59f9e80-72c3-11eb-8802-a6225fecd9b3.png)
 # add question
 ![Screenshot 2021-02-19 145840](https://user-images.githubusercontent.com/76151512/108486322-f9cbbc00-72c3-11eb-8556-209a68cdd279.png)
-topic of the question is added atomatically and question will added after the approval of admin.
+topic of the question is added automatically and question will added after the approval of admin.
 
 
 # interview experience section
@@ -28,7 +28,7 @@ topic of the question is added atomatically and question will added after the ap
 ![Screenshot 2021-02-19 145854](https://user-images.githubusercontent.com/76151512/108486350-0223f700-72c4-11eb-821f-0933ffa2ffd5.png)
 # add your experience
 ![Screenshot 2021-02-19 145902](https://user-images.githubusercontent.com/76151512/108487014-c63d6180-72c4-11eb-8306-762ea096fda9.png)
-company is added atomatically and you will see your entry if admin approved it.
+company is added automatically and you will see your entry if admin approved it.
 
 
 # full experience
