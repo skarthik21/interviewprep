@@ -1,5 +1,5 @@
 # interviewprep
-his website is a basic tool for students preparing for internships and placements to organise and streamline the process of searching for resources along with providing the past interview experiences in just few clicks.
+This website is a basic tool for students preparing for internships and placements to organise and streamline the process of searching for resources along with providing the past interview experiences in just few clicks.
 
 # HOME page
 ![Screenshot 2021-02-19 145754](https://user-images.githubusercontent.com/76151512/108486078-ac4f4f00-72c3-11eb-8495-610eaa1cc79f.png)
